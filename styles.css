@@ -10,13 +10,12 @@ body {
 
 .main-image {
     max-height: 150px;
-    width: auto;
+    width: 100%;
 }
 
 .fun-image {
     height: 125px;
-    width: auto;
-    
+    width: 100%;
 }
 
 .header {
