@@ -8,13 +8,13 @@ body {
     
 }
 
-.main-image {
-    max-height: 25px;
+/* .main-image {
+    height: 25px;
 }
 
 .fun-image {
-    max-height: 15px;
-}
+    height: 15px;
+} */
 
 .header {
     font-size: 15px;
