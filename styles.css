@@ -9,6 +9,7 @@ body {
 
 image {
     max-inline-size: 100%;
+    display: block;
 }
 
 .main-image {
