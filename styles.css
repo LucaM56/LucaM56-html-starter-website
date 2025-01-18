@@ -12,25 +12,25 @@ body {
     max-height: 500px;
 }
 
-.main-image img {
+/* .main-image img {
     height: 500px;
     max-height: 500px;
     width: auto;
     object-fit: contain;
-}
+} */
 
 /* found issue I think, px size does not seem to affect images */
 .fun-image {
     overflow: hidden;
-    max-height: 250px;
+    max-height: 150px;
 }
 
-.fun-image img {
+/* .fun-image img {
     height: 250px;
     max-height: 250px;
     width: auto;
     object-fit: contain;
-}
+} */
 
 .header {
     font-size: 15px;
