@@ -5,15 +5,27 @@ body {
     text-align: justify;
     margin-top: 10px;
     margin-bottom: 10px;
-    
 }
 
 .main-image {
-    height: 5px;
+    overflow: hidden;
+    max-height: 500px;
 }
 
+.main-image img {
+    height: 500px;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* found issue I think, px size does not seem to affect images */
 .fun-image {
-    height: 2px;
+    overflow: hidden;
+    max-height: 250px;
+}
+
+.fun-image img {
+    height: 250px;
 }
 
 .header {
