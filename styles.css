@@ -17,7 +17,7 @@ image {
     max-height: 500px;
 }
 
-img.main-image {
+main-image img {
     max-height: 500px;
 }
 
@@ -26,6 +26,9 @@ img.main-image {
     max-height: 200px;
 }
 
+.fun-image img{
+    max-height: 200px;
+}
 
 .header {
     font-size: 15px;
