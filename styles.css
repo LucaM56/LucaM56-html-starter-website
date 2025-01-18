@@ -7,6 +7,10 @@ body {
     margin-bottom: 10px;
 }
 
+image {
+    max-inline-size: 100%;
+}
+
 .main-image {
     overflow: hidden;
     max-height: 500px;
@@ -14,7 +18,7 @@ body {
 
 .fun-image {
     overflow: hidden;
-    max-height: 150px;
+    max-height: 200px;
 }
 
 
