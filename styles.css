@@ -5,7 +5,6 @@ body {
     text-align: justify;
     margin-top: 10px;
     margin-bottom: 10px;
-    text-align: center;
 }
 
 .main-image {
@@ -13,28 +12,31 @@ body {
     max-height: 500px;
 }
 
-/* .main-image img {
-    height: 500px;
-    max-height: 500px;
-    width: auto;
-    object-fit: contain;
-} */
-
-/* found issue I think, px size does not seem to affect images */
 .fun-image {
     overflow: hidden;
     max-height: 150px;
 }
 
-/* .fun-image img {
-    height: 250px;
-    max-height: 250px;
-    width: auto;
-    object-fit: contain;
-} */
 
 .header {
     font-size: 15px;
+    text-align: center;
+}
+
+.personal-info {
+    text-align: center;
+}
+
+.projects {
+    text-align: center;
+}
+
+.software {
+    text-align: center;
+}
+
+.hobbies {
+    text-align: center;
 }
 
 h1 {
