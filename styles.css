@@ -1,39 +1,15 @@
 body {
+    
     background: beige;
     color: black;
     font-size: 15px;
     text-align: justify;
+    /* max-width: 500px; */
+
     margin-top: 10px;
     margin-bottom: 10px;
-    max-width: 250px;
-}
-
-image {
-    max-inline-size: 100%;
-    display: block;
-}
-
-.main-image {
-    overflow: hidden;
-    max-height: 500px;
-}
-
-.main-image img {
-    max-height: 500px;
-}
-
-.fun-image {
-    overflow: hidden;
-    max-height: 200px;
-}
-
-.fun-image img{
-    max-height: 200px;
-}
-
-.header {
-    font-size: 15px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
@@ -47,3 +23,46 @@ h2 {
 h3 {
     text-align: center;
 }
+
+.header {
+    font-size: 15px;
+    text-align: center;
+}
+
+.main-image {
+    overflow: hidden;
+    max-height: 500px;
+}
+
+.main-image img {
+    max-height: 500px;
+    max-inline-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.pan-buttons button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    border: 22px rgb(177, 123, 6);
+}
+
+.fun-image {
+    overflow: hidden;
+    max-height: 200px;
+}
+
+.fun-image img{
+    max-height: 200px;
+    max-inline-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
