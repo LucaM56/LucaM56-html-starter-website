@@ -17,6 +17,10 @@ image {
     max-height: 500px;
 }
 
+img.main-image {
+    max-height: 500px;
+}
+
 .fun-image {
     overflow: hidden;
     max-height: 200px;
