@@ -17,7 +17,7 @@ image {
     max-height: 500px;
 }
 
-main-image img {
+.main-image img {
     max-height: 500px;
 }
 
@@ -32,22 +32,6 @@ main-image img {
 
 .header {
     font-size: 15px;
-    text-align: center;
-}
-
-.personal-info {
-    text-align: center;
-}
-
-.projects {
-    text-align: center;
-}
-
-.software {
-    text-align: center;
-}
-
-.hobbies {
     text-align: center;
 }
 
