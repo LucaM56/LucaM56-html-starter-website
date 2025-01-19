@@ -40,13 +40,8 @@ h3 {
     margin-right: auto;
 }
 
-
-.pan-buttons button{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 20px;
-    border: 22px rgb(177, 123, 6);
+.projects {
+    text-align: center;
 }
 
 .fun-image {
